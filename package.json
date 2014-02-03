@@ -1,7 +1,7 @@
 {
   "name": "pst-obj",
   "description": "A cheap and quick utility for setting up a persistence layer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Pat Cullen",
     "email": "pat@cullen.co.za"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/patcullen/pst-obj.git"
   },
-  "homepage": "https://github.com/patcullen/pst-obj",
+  "homepage": "http://mindmeat.blogspot.com/2014/02/pst-obj.html",
   "contributors": [],
   "scripts": {
   },
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/patcullen/pst-obj/issues"
   },
-  "_id": "pst-obj@0.1.1"
+  "_id": "pst-obj@0.1.2"
 }

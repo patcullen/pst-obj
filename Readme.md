@@ -4,6 +4,8 @@ _pst-obj_ is a cheap and quick utility for setting up a persistence layer in you
 
 It extends the Object prototype with a single non-enumerable function that allows you persist that object to a specified location.
 
+Some more info/motivation can be found [in my blog post about it](http://mindmeat.blogspot.com/2014/02/pst-obj.html).
+
 ## Example
 ```javascript
 // Start ye'r engines
