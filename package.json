@@ -1,0 +1,33 @@
+{
+  "name": "pst-obj",
+  "description": "A cheap and quick utility for setting up a persistence layer",
+  "version": "0.1.1",
+  "author": {
+    "name": "Pat Cullen",
+    "email": "pat@cullen.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patcullen/pst-obj.git"
+  },
+  "homepage": "https://github.com/patcullen/pst-obj",
+  "contributors": [],
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "persist",
+    "save",
+    "nosql"
+  ],
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/patcullen/pst-obj/issues"
+  },
+  "_id": "pst-obj@0.1.1"
+}
