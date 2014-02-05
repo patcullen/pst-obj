@@ -1,7 +1,7 @@
 // Start ye'r engines
 var
 	http = require('http'),
-	persist = require('pst-obj'),
+	persist = require('./index'),
 	state = { hits: 0 }
 ;
 
